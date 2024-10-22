@@ -1,0 +1,2 @@
+current_id,dt,uvi,temp,clouds,sunset,sunrise,humidity,pressure,wind_deg,dew_point,feels_like,visibility,wind_speed,weather.id,weather.icon,weather.main,weather.description,fact_id
+1,1729181663,0.21,290.65,20,1729184582,1729146493,67,1012,240,284.46,290.21,10000,3.6,801,02d,Clouds,few clouds,1

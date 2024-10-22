@@ -55,7 +55,7 @@ The star schema for TerrAlert offers several advantages, including simplicity, a
 <!-- | Country-Specific Drill-Through          | Sneak Peek                          |
 | --------------------------------- | -------------------------------------- |
 | ![Demo](./readme/country_drill_through.png) | ![Demo](./readme/sneak_peek1.gif) | -->
-| Sneak Peek                          |
+<!-- | Sneak Peek                          |
 | -------------------------------------- |
 | ![Demo](./readme/sneak_peek1.gif) |
 
@@ -67,7 +67,7 @@ The star schema for TerrAlert offers several advantages, including simplicity, a
 
 | Real Time Earthquake Monitoring                          | 
 | ----------------------------------------- | 
-| <img src="./readme/earthquakes.gif" width="800" height="auto" /> | -->
+| <img src="./readme/earthquakes.gif" width="800" height="auto" /> | --> 
 <!-- | ![Demo](./readme/earthquake.gif) | -->
 
 
